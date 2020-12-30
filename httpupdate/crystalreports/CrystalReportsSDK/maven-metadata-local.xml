@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>crystalreports</groupId>
+  <artifactId>CrystalReportsSDK</artifactId>
+  <versioning>
+    <release>12.2</release>
+    <versions>
+      <version>12.2</version>
+    </versions>
+    <lastUpdated>20200701054040</lastUpdated>
+  </versioning>
+</metadata>
